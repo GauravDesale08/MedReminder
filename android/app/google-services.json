@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "321319695378",
+    "project_id": "new1-8b4b2",
+    "storage_bucket": "new1-8b4b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321319695378:android:1b9aebe0f0b5fdf7c654cb",
+        "android_client_info": {
+          "package_name": "com.gaurav.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9tE5Chq28Po-cOCs_ErRlEknkV7eVkv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321319695378:android:4081a79ccbc932fac654cb",
+        "android_client_info": {
+          "package_name": "com.gaurav.medicine_alert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9tE5Chq28Po-cOCs_ErRlEknkV7eVkv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
